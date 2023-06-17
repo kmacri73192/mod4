@@ -32,4 +32,9 @@ The main method does the following:
 5. Sorts the Linked List using Collections
 6. Prints the Linked List
 
+##  Usage:
+
+If you'd like to use the code download .java files and complile/run it in a java-based interpreter.
+
 ## License
+None
